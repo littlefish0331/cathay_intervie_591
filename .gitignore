@@ -1,0 +1,19 @@
+# 有用 R code 做過練習
+codeR/
+
+# database 的 credential
+key/
+
+# 練習的程式碼紀錄
+# 暫存檔
+codePy/.ipynb_checkpoints/
+codePy/__pycache__/
+codePy/archive/
+
+# Cathay 題目說明
+Take home exam.pdf
+
+# 爬取的資料不放網路，因為有個資(儘管是公開
+result/contact_all.json
+result/results_newtaipai.json
+result/results_taipai.json
